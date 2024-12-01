@@ -1,0 +1,31 @@
+[{
+    "id":1,
+    "name":"LG SMART TV",
+    "price":200,
+    "image":"./img/product01.png",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+},
+{
+    "id":2,
+    "name":"LG SMART TV",
+    "price":200,
+    "image":"./img/product02.png",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+},
+{
+    "id":3,
+    "name":"LG SMART TV",
+    "price":200,
+    "image":"./img/product03.png",
+    "description":"Size 20 X 30 , Model Number :1235456645366, Colour : Black"
+},
+{
+    "id":4,
+    "name":"LG SMART TV",
+    "price":200,
+    "image":"./img/product04.png",
+    "description":"Size 20 X 30 , Model Number :1235456645366, Colour : Black"
+}
+
+
+]
